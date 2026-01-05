@@ -1,0 +1,18 @@
+button {
+  padding: 8px 21px;
+}
+
+.btn {
+  display: flex;
+  gap: 3vw;
+  margin-top: 5vh;
+}
+
+.counter {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 80vh;
+  cursor: pointer;
+}
