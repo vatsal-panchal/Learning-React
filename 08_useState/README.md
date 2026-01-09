@@ -1,4 +1,4 @@
-# 🔁 React State Variable
+# React State Variable
 
 In React, when a variable needs to **change dynamically**, we use **state**.
 
@@ -6,7 +6,7 @@ State allows React components to **update the UI automatically** when data chang
 
 ---
 
-## 🧠 What is `useState`?
+##  What is `useState`?
 
 `useState` is a special React function that makes a variable **dynamic (changeable)**.
 
@@ -16,7 +16,7 @@ It gives you:
 
 ---
 
-## 📌 Example: Counter App
+##  Example: Counter App
 
 ```jsx
 import React from "react";
