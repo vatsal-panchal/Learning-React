@@ -1,4 +1,4 @@
-🟦 Why was React created?
+## 🟦 Why was React created?
 
 Facebook was facing a big problem:
 
