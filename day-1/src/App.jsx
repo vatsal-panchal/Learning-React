@@ -1,15 +1,13 @@
-import React from "react";
-
-function User() {
-  return <h1>hello vatsal</h1>;
-}
+import React from 'react'
+import Card from './Card'
 
 const App = () => {
   return (
     <div>
-      <User />
-    </div>
-  );
-};
 
-export default App;
+      <Card name="vatsal"  age={21} city="pune"/>
+    </div>
+  )
+}
+
+export default App
