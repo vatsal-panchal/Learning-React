@@ -1,6 +1,11 @@
+import React from 'react'
+import Card from './Card.jsx'
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+
+        <Card name="vatsal"  age={21} city="pune"/>
+    </div>
   )
 }
 
