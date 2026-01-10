@@ -1,12 +1,12 @@
-# ⚡ Virtual DOM
+#  Virtual DOM
 
-## ❓ What is Virtual DOM?
+##  What is Virtual DOM?
 
 The Virtual DOM is a **lightweight and fast copy of the real DOM** that React maintains internally.
 
 ---
 
-## ⚙️ How does it work?
+##  How does it work?
 
 1. The **state or props of a component change**  
 2. React first **updates the Virtual DOM**  
@@ -16,6 +16,6 @@ The Virtual DOM is a **lightweight and fast copy of the real DOM** that React ma
 
 ---
 
-## 📝 Quick Summary
+##  Quick Summary
 
 > **Virtual DOM = React’s smart system that updates only the changed parts in the real DOM so that the app runs fast.**
